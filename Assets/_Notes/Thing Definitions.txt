@@ -1,0 +1,3 @@
+GameMode = Different types of game modes
+Level = Different permutations of the specific game mode
+Mutator = A type of play style that affects the game play
